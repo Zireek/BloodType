@@ -16,4 +16,5 @@ public class SplashScreenActivity extends AppCompatActivity {
         System.out.println("Ericc");
 >>>>>>> 1f0c07bf58151c02cdd39cbd788207fcfcb74481
     }
-}
+    lololookokokokokofghjktuututuu
+}uhtu
