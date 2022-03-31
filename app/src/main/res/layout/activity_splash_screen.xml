@@ -22,7 +22,6 @@
             android:layout_height="15dp"
             android:layout_gravity="center"
             android:layout_marginTop="20dp"
-            android:src=""
 
     </LinearLayout>
 
