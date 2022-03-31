@@ -12,6 +12,6 @@ public class SplashScreenActivity extends AppCompatActivity {
         setContentView(R.layout.activity_splash_screen);
         System.out.println("Eric");
         System.out.println("Joel");
-
+        System.out.println("");
     }
 }
